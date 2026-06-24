@@ -1,0 +1,4 @@
+USE streamflix_db;
+DROP TABLE IF EXISTS Ratings;
+DROP TABLE IF EXISTS Users;
+DROP TABLE IF EXISTS Movies;
