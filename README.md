@@ -25,8 +25,21 @@ This project prepares movie data for analytics and reporting. The main focus is:
 ## Notes on Running the Project
 
 - Use Jupyter or VS Code Notebook to open and run notebooks in `python_scripts/`.
-- The database connection in `python_scripts/load_data.ipynb` currently uses a placeholder password.
-- Replace `your_password` with the correct local MySQL password before running the notebook, or refactor the notebook to load credentials from an environment variable.
+- The database connection in `python_scripts/load_data.ipynb` now reads the password from the `DB_PASSWORD` environment variable.
+- Set `DB_PASSWORD` before running the notebook, for example:
+  - macOS / Linux: `export DB_PASSWORD=your_password`
+  - Windows PowerShell: `$env:DB_PASSWORD = "your_password"`
+
+## Project Goals and Insights
+
+The goal of this project is to prepare a clean movie dataset for analytics, uncover patterns in genre and performance, and surface actionable insights from the data.
+
+Key findings from the analysis include:
+
+- cleaned movie metadata by splitting title and year fields, standardizing genres, and fixing missing values
+- identified the most frequent movie genres and their relative distribution
+- verified data quality issues, such as inconsistent genre separators and missing release years, and corrected them for reliable downstream analysis
+- built visualizations to support the interpretation of movie performance trends and genre preferences
 
 ## How to Run
 
