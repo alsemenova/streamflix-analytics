@@ -10,17 +10,14 @@ This project prepares movie data for analytics and reporting. The main focus is:
 - documenting data issues and fixes
 - loading cleaned data into a local MySQL database
 - providing analysis and visualization notebooks
-- preserving project documentation and schema artifacts
 
 ## What’s Included
 
 - `data/` – CSV datasets and cleaned data files
 - `python_scripts/` – Jupyter notebooks for data cleaning, loading, and visualization
 - `sql_scripts/` – SQL files for creating tables, checking relationships, and updating data
-- `Doc/` – project documentation and client-facing templates
 - `ERD_schema/` – entity relationship diagram for the movie data model
 - `Excel/` – source and cleaned spreadsheet files
-- `tasks/` – project task screenshots and progress tracking
 
 ## Notes on Running the Project
 
@@ -69,10 +66,8 @@ streamflix-analytics/
   data/              # CSV data files and cleaned outputs
   python_scripts/    # Jupyter notebooks for cleaning, loading, visualizing
   sql_scripts/       # SQL schema and validation scripts
-  Doc/               # project documentation and reports
   ERD_schema/        # database schema diagrams
   Excel/             # spreadsheet source files and exports
-  tasks/             # task screenshots and progress notes
   README.md          # project overview and usage notes
   .gitignore         # ignored local files and temporary artifacts
 ```
