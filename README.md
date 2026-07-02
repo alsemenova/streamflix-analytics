@@ -82,6 +82,12 @@ Below are the key charts from our analysis (saved in `images/`):
 ![Most popular genres](images/most_popular_genres.jpeg)
 *Most popular genres confirm Drama and Comedy lead in both popularity and ratings — prioritize investment here.*
 
+![User distribution screenshot](images/User_Distribution_by_Genre_and_Subscription_Type.png)
+*Stacked bars show free vs paid users per genre — Drama and Comedy have the largest audiences and strong paid representation.*
+
+![User count by age group](images/User_Count_by_Age_Group.png)
+*Bar chart of user counts by age group — the "Above 50" group is the largest cohort.*
+
 ## Project Status
 
 - Data cleaning and validation are completed for the current datasets.
