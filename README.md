@@ -68,9 +68,6 @@ Below are the key charts from our analysis (saved in `images/`):
 ![User distribution by genre and subscription type](images/subscription_distribution.png)
 
 ![Subscription count by device](images/device_usage_distribution.png)
-
-![User distribution by subscription status (total)](images/subscription_distribution.png)
-
 ![Top 10 movies by average rating](images/top10_movies_avg_rating.png)
 
 ![Age and gender distribution](images/age_gender_distribution.png)
