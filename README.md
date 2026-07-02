@@ -74,6 +74,8 @@ Below are the key charts from our analysis (saved in `images/`):
 
 ![Country distribution (user markets)](images/country_distribution.png)
 
+![Most popular genres](images/most_popular_genres.jpeg)
+
 ## Project Status
 
 - Data cleaning and validation are completed for the current datasets.
