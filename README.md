@@ -66,15 +66,21 @@ Charts from the notebooks can be added to the README by exporting them as image 
 Below are the key charts from our analysis (saved in `images/`):
 
 ![User distribution by genre and subscription type](images/subscription_distribution.png)
+*Stacked bars show free vs paid users per genre; Drama and Comedy have the largest audiences and strong paid representation.*
 
 ![Subscription count by device](images/device_usage_distribution.png)
+*Subscriptions are roughly equal across Desktop, Mobile, Smart TV, and Tablet (~1.5k each), indicating broad multi-device usage.*
 ![Top 10 movies by average rating](images/top10_movies_avg_rating.png)
+*Top-rated titles identified here can inform content promotion and curation strategies.*
 
 ![Age and gender distribution](images/age_gender_distribution.png)
+*Age and gender breakdown shows the largest user cohort is 55–65; male users outnumber females across most age groups, suggesting targeted engagement opportunities.*
 
 ![Country distribution (user markets)](images/country_distribution.png)
+*Geographic distribution highlights North America and Western Europe as primary markets; growth opportunities exist in South America, Southeast Asia, and parts of Africa.*
 
 ![Most popular genres](images/most_popular_genres.jpeg)
+*Most popular genres confirm Drama and Comedy lead in both popularity and ratings — prioritize investment here.*
 
 ## Project Status
 
