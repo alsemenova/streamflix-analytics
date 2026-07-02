@@ -38,6 +38,7 @@ Based on the findings, the recommended strategy is to:
 - ERD_schema/ – database schema and relationship diagram
 - Excel/ – source and cleaned spreadsheet files
 - PowerBI/ – Power BI dashboard files
+- images/ – exported chart screenshots and visualization images used in README
 
 ## How to Run the Project
 
